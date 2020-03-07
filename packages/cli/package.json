@@ -27,5 +27,5 @@
     "@babel/preset-env": "^7.8.7",
     "@babel/register": "^7.8.6"
   },
-  "gitHead": "5b81abfd43aedd9a3423c5f777c21fe0e731c60c"
+  "gitHead": "1d9cdae19c060bb13855aa8e417ef456c6dd5838"
 }
