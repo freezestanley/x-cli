@@ -1,0 +1,30 @@
+{
+  "name": "x-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "x-cli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "ejs": "^3.0.1",
+    "execa": "^4.0.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.6",
+    "log": "^6.0.0",
+    "ora": "^4.0.3",
+    "yaml": "^1.7.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/register": "^7.8.6"
+  }
+}
